@@ -9,7 +9,7 @@ The core achievement lies in successful **hyperparameter tuning**, **robust trai
 # Key Features
 
 - **High-Accuracy CNN Classifier**  
-  Achieved **99.88% validation accuracy** and **100.00% test accuracy** on the ASL Alphabet dataset.
+  Achieved **99.88% validation accuracy** on the ASL Alphabet dataset.
 
 - **Hyperparameter Optimization**  
   Used **KerasTuner (Hyperband)** to find the best architecture and training configuration, leading to outstanding generalization.
